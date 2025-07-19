@@ -46,7 +46,7 @@ I'm a passionate **Full Stack Web Developer** with expertise in **MERN Stack (Mo
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jhaprashant183/)
 - 📧 Email: jhaprashant.works@gmail.com
-- 🌐 Portfolio: [https://my-portfolio-phi-eight-65.vercel.app/]
+- 🌐 Portfolio: https://my-portfolio-phi-eight-65.vercel.app/
 
 ---
 
