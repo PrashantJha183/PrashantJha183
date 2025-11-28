@@ -1,53 +1,56 @@
-# 👋 Hi, I'm Prashant Jha
+# Hi, I'm Prashant Jha
 
-I'm a passionate **Full Stack Web Developer** with expertise in **MERN Stack (MongoDB, Express.js, React, Node.js)**, **Vue.js**, and **PHP**. I have hands-on experience building robust, scalable, and user-friendly web applications and solutions tailored to business needs.
+I’m a Full Stack Web Developer with 1+ years of experience specializing in the MERN Stack (MongoDB, Express.js, React, Node.js). I focus on building scalable, maintainable, and user-friendly web applications. My experience ranges from frontend UI development to backend architecture, API design, and full deployment workflows.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
-- ⚛️ React.js (with Vite)
-- 🔶 Vue.js (with Vite)
-- 🌐 HTML5, CSS3, JavaScript (ES6+)
-- 🎨 Tailwind CSS, Bootstrap
+- React.js (Vite + modern component architecture)
+- HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
 
 ### Backend
-- 🟢 Node.js
-- 🌐 Express.js
-- 🐘 PHP (Core)
+- Node.js
+- Express.js
 
 ### Database
-- 🍃 MongoDB
-- 🐬 MySQL
+- MongoDB
+- MySQL
+- MongoDB Atlas
 
-### DevOps / Deployment
-- 🚀 Netlify, Vercel, CPanel, Render
-- 🐳 Docker (Containerized Deployments)
+### DevOps & Deployment
+- Netlify
+- Vercel
+- CPanel
+- Render
+- Docker (containerized deployments)
 
 ### Tools & Version Control
-- 🔧 Git & GitHub
-- 🔍 Postman, Thunder Client
-- 📦 NPM
-- 🛠️ VS Code
+- Git & GitHub
+- Postman / Thunder Client
+- NPM
+- VS Code
 
 ---
 
-## 💼 Projects & Experience
+## Projects & Experience
 
-- ✅ Built and deployed **ERP, CRM, and LMS web applications** using MERN and PHP stacks.
-- ✅ Created dynamic and responsive websites for clients during freelance projects.
-- ✅ Proficient in **REST API development**, database design, and API integration.
-- ✅ Successfully deployed apps on **CPanel**, **Vercel**, **Netlify**, **Render** and using **Docker** containers.
-- ✅ Experience optimizing applications for performance, scalability, and user experience.
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jhaprashant183/)
-- 📧 Email: jhaprashant.works@gmail.com
-- 🌐 Portfolio: https://my-portfolio-phi-eight-65.vercel.app/
+- Developed and deployed ERP, CRM, and LMS applications using both MERN stack.
+- Built responsive, modern, and client-ready websites and admin dashboards.
+- Experienced in REST API development, authentication, routing, middleware, and database schema design.
+- Worked on performance optimization, SEO improvements, caching strategies, and secure API integrations.
+- Deployed full-stack applications on CPanel, Netlify, Vercel, Render, and through Dockerized environments.
+- Strong understanding of UI/UX principles, reusable component patterns, and scalable folder architecture.
 
 ---
 
-Thank you for visiting! Feel free to explore my repositories or reach out for collaboration or freelance work.
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/jhaprashant183/
+- Email: jhaprashant.works@gmail.com
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out for collaboration or freelance opportunities.
