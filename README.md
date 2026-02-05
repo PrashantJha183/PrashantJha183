@@ -50,7 +50,7 @@ I’m a Full Stack Web Developer with 1+ years of experience specializing in the
 
 - LinkedIn: https://www.linkedin.com/in/jhaprashant183/
 - Email: jhaprashant.works@gmail.com
-- Portfolio: https://prashant-jhadev.netlify.app/
+- Portfolio: https://www.prashantjhadev.in/
 
 ---
 
